@@ -1,2 +1,4 @@
 # hello-world
-Just another repositary
+
+HI everyone
+here I made some changes since I wanted to improve the results
